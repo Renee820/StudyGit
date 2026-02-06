@@ -10,4 +10,5 @@ cd+該資料夾的名稱將目錄切換過去
 把別人傳好的文件 用git pull進行更新拉回到自己的本地端
 
 #正題 想要建立自己的分支不擔心破壞主線
-git checkout -b
+git checkout -b 分支名
+git push origin 分支名 把更新的東西放到支線
